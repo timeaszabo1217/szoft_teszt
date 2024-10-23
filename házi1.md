@@ -6,11 +6,11 @@
   **MUNKAIDŐNYÍLVÁNTARTÓ** -> **MUNKAIDŐ-NYÍLVÁNTARTÓ**
 
 - Láttam kötőjellel és anélkül is leírva, de az MTA kötőjellel ajánlja (elsőnél is igaz ez):  
-  **Munkaidő nyilvántartó rendszer** -> **Munkaidő-nyilvántartó rendszer**.
+  **Munkaidő nyilvántartó rendszer** -> **Munkaidő-nyilvántartó rendszer**.  
   [https://helyesiras.mta.hu/helyesiras/default/kulegy?q=nyitva+tart%C3%A1s#](https://helyesiras.mta.hu/helyesiras/default/kulegy?q=nyitva+tart%C3%A1s#)
 
 - A "túlóra elrendelés" egybeírandó az MTA szerint, pont 7 magánhangzós szó:  
-  **Túlóra/készenléti elrendelés** -> **Túlóra-/készenléti elrendelés**
+  **Túlóra/készenléti elrendelés** -> **Túlóra-/készenléti elrendelés**  
   [https://helyesiras.mta.hu/helyesiras/default/kulegy?q=nyitva+tart%C3%A1s#](https://helyesiras.mta.hu/helyesiras/default/kulegy?q=nyitva+tart%C3%A1s#)
 
 ### Nem egyértelmű mondatalkotások:
